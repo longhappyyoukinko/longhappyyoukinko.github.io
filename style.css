@@ -42,7 +42,7 @@ body {
  
  
   /*トップページメインビジュアル*/
-  /*.main_visual .slide {
+  .main_visual .slide {
     
     background-size: cover;
     background-position: center ;
@@ -60,7 +60,7 @@ body {
     bottom: 50px;
     left: 0;
     z-index: 2;
-  }*/
+  }
 
  
   
